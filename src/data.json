@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Muhammad ﷺ",
+    "start": -52,
+    "end": 10,
+    "role": "Prophet"
+  },
+  {
+    "name": "Abu Bakr",
+    "start": 10,
+    "end": 12,
+    "role": "Caliph"
+  },
+  {
+    "name": "Umar",
+    "start": 12,
+    "end": 22,
+    "role": "Caliph"
+  },
+  {
+    "name": "Uthman",
+    "start": 22,
+    "end": 34,
+    "role": "Caliph"
+  },
+  {
+    "name": "Ali",
+    "start": 34,
+    "end": 39,
+    "role": "Caliph"
+  },
+  {
+    "name": "Hassan",
+    "start": 39,
+    "end": 39,
+    "role": "Caliph"
+  },
+  {
+    "name": "Mu'awiyah",
+    "start": 39,
+    "end": 58,
+    "role": "Caliph"
+  },
+  {
+    "name": "Yazid I",
+    "start": 58,
+    "end": 61,
+    "role": "Caliph"
+  },
+  {
+    "name": "Abdullah ibn Zubair",
+    "start": 62,
+    "end": 70,
+    "role": "Caliph"
+  },
+  {
+    "name": "Mu'awiyah II",
+    "start": 16,
+    "end": 62,
+    "role": "Caliph"
+  },
+  {
+    "name": "Marwan I",
+    "start": 62,
+    "end": 63,
+    "role": "Caliph"
+  },
+  {
+    "name": "Abd al-Malik",
+    "start": 63,
+    "end": 83,
+    "role": "Caliph"
+  },
+  {
+    "name": "al-Walid I",
+    "start": 83,
+    "end": 93,
+    "role": "Caliph"
+  },
+  {
+    "name": "Sulayman",
+    "start": 93,
+    "end": 95,
+    "role": "Caliph"
+  },
+  {
+    "name": "Umar ibn Abd al-Aziz",
+    "start": 95,
+    "end": 98,
+    "role": "Caliph"
+  },
+  {
+    "name": "Yazid II",
+    "start": 98,
+    "end": 102,
+    "role": "Caliph"
+  },
+  {
+    "name": "Hisham",
+    "start": 102,
+    "end": 121,
+    "role": "Caliph"
+  },
+  {
+    "name": "al-Walid II",
+    "start": 121,
+    "end": 122,
+    "role": "Caliph"
+  },
+  {
+    "name": "Yazid III",
+    "start": 122,
+    "end": 122,
+    "role": "Caliph"
+  },
+  {
+    "name": "Ibrahim",
+    "start": 122,
+    "end": 128,
+    "role": "Caliph"
+  },
+  {
+    "name": "Marwan II",
+    "start": 122,
+    "end": 128,
+    "role": "Caliph"
+  },
+  {
+    "name": "as Saffah",
+    "start": 128,
+    "end": 132,
+    "role": "Caliph"
+  },
+  {
+    "name": "al-Mansur",
+    "start": 132,
+    "end": 153,
+    "role": "Caliph"
+  },
+  {
+    "name": "al-Mahdi",
+    "start": 153,
+    "end": 163,
+    "role": "Caliph"
+  },
+  {
+    "name": "al-Hadi",
+    "start": 163,
+    "end": 164,
+    "role": "Caliph"
+  },
+  {
+    "name": "Haroon Rashid",
+    "start": 164,
+    "end": 187,
+    "role": "Caliph"
+  },
+  {
+    "name": "al-Amin",
+    "start": 187,
+    "end": 191,
+    "role": "Caliph"
+  },
+  {
+    "name": "al-Ma'mun",
+    "start": 191,
+    "end": 211,
+    "role": "Caliph"
+  },
+  {
+    "name": "al-Mu'tasim",
+    "start": 211,
+    "end": 220,
+    "role": "Caliph"
+  },
+  {
+    "name": "al-Wathiq",
+    "start": 220,
+    "end": 225,
+    "role": "Caliph"
+  },
+  {
+    "name": "al-Mutawakkil",
+    "start": 225,
+    "end": 239,
+    "role": "Caliph"
+  },
+  {
+    "name": "Abu Hanifa",
+    "start": 80,
+    "end": 150,
+    "role": "Hanafi Jurist"
+  },
+  {
+    "name": "Wasil ibn Ata",
+    "start": 80,
+    "end": 130,
+    "role": "Mu'tazili"
+  },
+  {
+    "name": "Malik",
+    "start": 93,
+    "end": 187,
+    "role": "Maliki Jurist"
+  },
+  {
+    "name": "Shafii",
+    "start": 150,
+    "end": 204,
+    "role": "Shafi'i Jurist"
+  },
+  {
+    "name": "Ahmad",
+    "start": 164,
+    "end": 241,
+    "role": "Hanbali Jurist"
+  },
+  {
+    "name": "Bukhari",
+    "start": 194,
+    "end": 256,
+    "role": "Muhaddith"
+  },
+  {
+    "name": "Dawood al-Zahiri",
+    "start": 201,
+    "end": 270,
+    "role": "Zahiri Jurist"
+  },
+  {
+    "name": "abu Dawood",
+    "start": 202,
+    "end": 275,
+    "role": "Muhaddith"
+  },
+  {
+    "name": "Muslim",
+    "start": 206,
+    "end": 281,
+    "role": "Muhaddith"
+  },
+  {
+    "name": "ibn Majah",
+    "start": 209,
+    "end": 273,
+    "role": "Muhaddith"
+  },
+  {
+    "name": "Tirmidhi",
+    "start": 209,
+    "end": 279,
+    "role": "Muhaddith"
+  },
+  {
+    "name": "Nasaai",
+    "start": 214,
+    "end": 303,
+    "role": "Muhaddith"
+  },
+  {
+    "name": "Tabari",
+    "start": 224,
+    "end": 310,
+    "role": "Mufassir"
+  },
+  {
+    "name": "Tahawi",
+    "start": 239,
+    "end": 321,
+    "role": "Hanafi Jurist"
+  },
+  {
+    "name": "al-Farabi",
+    "start": 257,
+    "end": 331,
+    "role": "Philosopher"
+  },
+  {
+    "name": "al-Jasaas",
+    "start": 305,
+    "end": 370,
+    "role": "Hanafi Jurist"
+  },
+  {
+    "name": "al-Darutni",
+    "start": 306,
+    "end": 383,
+    "role": "Scholar"
+  },
+  {
+    "name": "ibn Sina",
+    "start": 370,
+    "end": 427,
+    "role": "Philosopher"
+  },
+  {
+    "name": "ibn Hazam",
+    "start": 384,
+    "end": 456,
+    "role": "Maliki Jurist"
+  },
+  {
+    "name": "al-Sarakhsy",
+    "start": 400,
+    "end": 483,
+    "role": "Jurist"
+  },
+  {
+    "name": "Ghazaali",
+    "start": 450,
+    "end": 505,
+    "role": "Philosopher"
+  },
+  {
+    "name": "an Nasafi",
+    "start": 461,
+    "end": 537,
+    "role": "Scholar"
+  },
+  {
+    "name": "ibn Rushd",
+    "start": 520,
+    "end": 595,
+    "role": "Philosopher"
+  },
+  {
+    "name": "Rumi",
+    "start": 543,
+    "end": 606,
+    "role": "Poet"
+  },
+  {
+    "name": "ibn Arabi",
+    "start": 560,
+    "end": 633,
+    "role": "Philosopher"
+  },
+  {
+    "name": "Imam Nawawi",
+    "start": 631,
+    "end": 676,
+    "role": "Muhaddith"
+  },
+  {
+    "name": "al-Baydawi",
+    "start": "?",
+    "end": 685,
+    "role": "Mufassir"
+  },
+  {
+    "name": "ibn Taymiyah",
+    "start": 661,
+    "end": 728,
+    "role": "Hanbali Jurist"
+  },
+  {
+    "name": "Dhahabi",
+    "start": 673,
+    "end": 743,
+    "role": "Hanbali Jurist"
+  },
+  {
+    "name": "al-Īji",
+    "start": 680,
+    "end": 753,
+    "role": "Scholar"
+  },
+  {
+    "name": "ibn Qayyim",
+    "start": 691,
+    "end": 751,
+    "role": "Hanbali Jurist"
+  },
+  {
+    "name": "ibn Kathir",
+    "start": 701,
+    "end": 774,
+    "role": "Mufassir"
+  },
+  {
+    "name": "at-Taftazani",
+    "start": 722,
+    "end": 792,
+    "role": "Scholar"
+  },
+  {
+    "name": "ibn Hajr",
+    "start": 773,
+    "end": 852,
+    "role": "Scholar"
+  }
+]
